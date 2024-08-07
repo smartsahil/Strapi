@@ -15,8 +15,9 @@
     "title": {
       "type": "string"
     },
-    "content": {
-      "type": "blocks"
+    "description": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
